@@ -1,4 +1,8 @@
 name: ${project.name}
 version: ${project.version}
 authors: [615283, lewis2470]
-main: com.georlegacy.general.enderpearlride
+main: com.georlegacy.general.enderpearlride.EnderPearlRide
+permissions:
+  enderpearlride.ride:
+    description: Allows you to ride enderpearls
+    default: false
