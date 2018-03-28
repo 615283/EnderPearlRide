@@ -1,0 +1,4 @@
+name: ${project.name}
+version: ${project.version}
+authors: [615283, lewis2470]
+main: com.georlegacy.general.enderpearlride
